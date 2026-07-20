@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="LinkedIn URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/feed/)&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="Portfolio URL" target="_blank">

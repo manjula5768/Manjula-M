@@ -87,9 +87,9 @@ A responsive car rental system with booking and vehicle management.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manjula5768&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manjula-M&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjula5768&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjula-M&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ A responsive car rental system with booking and vehicle management.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjula5768&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjula-M&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ A responsive car rental system with booking and vehicle management.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjula5768&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjula-M&theme=tokyo-night"/>
 </p>
 
 ---
@@ -113,7 +113,7 @@ A responsive car rental system with booking and vehicle management.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjula5768&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manjula-M&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ A responsive car rental system with booking and vehicle management.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjula5768label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Manjula-M&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>

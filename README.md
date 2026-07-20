@@ -41,7 +41,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mysql,git,github,vscode,bootstrap,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode," />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`
 
-🔗 Live Demo: **Portfolio URL**
+🔗 Live Demo:https://manjula-m.netlify.app
 
 📂 Repository: **GitHub Repository**
 

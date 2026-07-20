@@ -24,11 +24,11 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="LinkedIn URL" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/feed/)&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/manjula-m-79729836a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="Portfolio URL" target="_blank">
+  <a href="[Portfolio URL](https://manjula-m.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 

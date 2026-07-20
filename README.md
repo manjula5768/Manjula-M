@@ -84,37 +84,7 @@ A responsive car rental system with booking and vehicle management.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manjula-M&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjula-M&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manjula-M&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjula-M&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manjula-M&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
 # 🛠 Currently Working On
 
 ☕ Strengthening my Java Fundamentals and OOP concepts.

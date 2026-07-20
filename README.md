@@ -87,9 +87,9 @@ A responsive car rental system with booking and vehicle management.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GitHubUsername&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manjula5768&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubUsername&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjula5768&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ A responsive car rental system with booking and vehicle management.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHubUsername&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjula5768&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ A responsive car rental system with booking and vehicle management.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHubUsername&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjula5768&theme=tokyo-night"/>
 </p>
 
 ---
@@ -113,24 +113,24 @@ A responsive car rental system with booking and vehicle management.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitHubUsername&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manjula5768&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
 # 🛠 Currently Working On
 
-- 🚀 Building Java and Full Stack web applications.
-- 🌱 Learning Spring Boot and Advanced Java.
-- ☁️ Exploring Cloud Deployment.
-- 📱 Improving Responsive UI/UX Design.
+☕ Strengthening my Java Fundamentals and OOP concepts.
+- 🧩 Solving programming challenges to enhance problem-solving skills.
+- 💻 Developing Java console applications using Object-Oriented Programming.
+- 🚀 Building a strong foundation for Java Full Stack Development.
 
 ---
 
 # 📚 Currently Learning
 
 - Java
-- Spring Boot
+- Web tech
 - React
 - MySQL
 - Git & GitHub
@@ -144,7 +144,7 @@ A responsive car rental system with booking and vehicle management.
 - ✅ Contribute to Open Source
 - ✅ Build Real-World Applications
 - ✅ Master Backend Development
-- ✅ Grow My Developer Portfolio
+- ✅ Grow a skilled IT professional 
 
 ---
 
@@ -155,7 +155,7 @@ A responsive car rental system with booking and vehicle management.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GitHubUsername&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=manjula5768label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
